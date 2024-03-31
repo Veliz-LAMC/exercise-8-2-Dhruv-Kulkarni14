@@ -170,7 +170,7 @@ footer p {
 	color: white;
 	padding: 1em 0;
 }
-@media only screen and (max-width: 100px) {
+@media only screen and (max-width: 597px) {
 	aside h2 a{
 		font-size: 85%;
 	}
