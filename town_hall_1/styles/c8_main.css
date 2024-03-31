@@ -89,8 +89,8 @@ header img {
 
 /* the styles for the section */
 section {
-	width: 65.625%;
-	float: right;
+	width: 95%%;
+	float: none;
 	padding: 0 2.5% 20px 2.5%;
 }
 section h1 {
@@ -141,9 +141,9 @@ article img {
 
 /* the styles for the aside */
 aside {
-	width: 26.875%; 
-	float: right;
-	padding: 0 0% 20px 2.5%;
+	width: 95%; 
+	float: none;
+	padding: 0 2.5% 20px 2.5%;
 }
 aside h2 {
 	color: #800000;
