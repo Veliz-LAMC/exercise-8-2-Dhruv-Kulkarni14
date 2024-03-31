@@ -55,10 +55,10 @@ header img {
 }
 #nav_menu ul li {
 	float: left;
+	width: 24%;
 }
 #nav_menu ul li a {
     display: block;
-	width: 24%;
     text-align: center;
     padding: 1em 0;
     text-decoration: none;
