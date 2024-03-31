@@ -193,3 +193,6 @@ footer p {
 		text-align: center;
 	}
 }
+aside > div {
+		column-count: 2;
+	}
