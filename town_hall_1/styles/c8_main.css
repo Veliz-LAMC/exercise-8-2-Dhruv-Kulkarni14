@@ -20,7 +20,8 @@ a:focus, a:hover {
 }
 /* the styles for the header */
 header {
-	padding: 1.5em 0 2em 0;
+	width: 96.875%;
+	padding: 15px 1.5625%;
 	border-bottom: 3px solid #931420;
 		background-image: -moz-linear-gradient(
 	    30deg, #f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
@@ -138,7 +139,8 @@ article img {
 
 /* the styles for the aside */
 aside {
-	width: 215px;
+	width: 34.375%;
+        padding: 15px 1.5625%; 
 	float: right;
 	padding: 0 0 20px 20px;
 }
@@ -158,6 +160,8 @@ aside img {
 
 /* the styles for the footer */
 footer {
+	width: 96.875%;
+padding: 15px 1.5625%;
 	background-color: #931420;
 	clear: both;
 
@@ -166,4 +170,8 @@ footer p {
 	text-align: center;
 	color: white;
 	padding: 1em 0;
+}
+main {
+	width: 59.375%;
+padding: 15px 1.5625%; 
 }
