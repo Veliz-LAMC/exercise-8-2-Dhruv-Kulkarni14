@@ -204,4 +204,7 @@ footer p {
 	article img{
 		max-width: 30%;
 	}
+	.speakers{
+		column-count: 2;
+	}
 }
