@@ -55,7 +55,7 @@ header img {
 }
 #nav_menu ul li {
 	float: left;
-	width: 24%;
+	width: 20%;
 }
 #nav_menu ul li a {
     display: block;
@@ -216,6 +216,6 @@ footer p {
 	.slicknav_menu {
 		display: block;
 		float: right;
-		background-color: #800000;
+		background-color: #800000 !important;
 	}
 }
