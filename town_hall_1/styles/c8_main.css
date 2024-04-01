@@ -170,7 +170,9 @@ footer p {
 	color: white;
 	padding: 1em 0;
 }
-
+.slicknav_menu {
+		display: none;
+	}
 @media only screen and (max-width: 640px) {
 	aside h2 a{
 		font-size: 85%;
@@ -213,8 +215,8 @@ footer p {
 	}
 	.slicknav_menu {
 		display: block;
-		background-color: #800000 !important;
+		width: 40%;
+		float: right;
+		background: transparent;
 	}
 }
-
-#mobile_menu { display: none; } 
