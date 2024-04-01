@@ -89,7 +89,7 @@ header img {
 
 /* the styles for the section */
 section {
-	width: 95%;
+	width: 65.625%;
 	float: right;
 	padding: 0 2.5% 20px 2.5%;
 }
@@ -135,13 +135,13 @@ article img {
 	float: right;
 	margin: .5em 0 1em 1em;
 	border: 1px solid black;
-	max-width: 30%;
+	max-width: 40%;
 	min-width: 150px;
 }
 
 /* the styles for the aside */
 aside {
-	width: 95%; 
+	width: 26.875%; 
 	float: left;
 	padding: 0 0 20px 2.5%;
 }
@@ -193,10 +193,15 @@ footer p {
 		text-align: center;
 	}
 	aside{
+		width: 95%; 
 		float: none;
 		padding: 0 2.5% 20px 2.5%;
 	}
 	section{
 		float: none;
+		width: 95%;
+	}
+	article img{
+		max-width: 30%;
 	}
 }
